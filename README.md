@@ -100,7 +100,7 @@ descriptive stats) → correlation analysis → visualization → business insig
 Suzuki_data_analysis/
 ├── README.md
 ├── requirements.txt
-├── data/raw/suzuki_cars_raw.csv
+├── suzuki_cars_raw.csv
 ├── Suzuki_analysis_HU.ipynb
 ├── suzuki_eda_en.ipynb
 ├── generate_data.py
