@@ -101,10 +101,9 @@ Suzuki_data_analysis/
 ├── README.md
 ├── requirements.txt
 ├── data/raw/suzuki_cars_raw.csv
-├── notebooks/
-│   ├── suzuki_eda_en.ipynb
-│   └── suzuki_eda_hu.ipynb
-├── src/generate_data.py
+├── Suzuki_analysis_HU.ipynb
+├── suzuki_eda_en.ipynb
+├── generate_data.py
 └── images/
 ```
 
