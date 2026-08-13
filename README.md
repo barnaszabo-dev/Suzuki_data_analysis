@@ -27,7 +27,7 @@ decisions: how to price stock, which variants to prioritize, and where a simple
 valuation heuristic already performs well.
 
 > 📓 **Note:** This project includes two versions of the EDA notebook —
-> [`notebooks/suzuki_eda_en.ipynb`](notebooks/suzuki_eda_en.ipynb) (English, main version)
+> [`suzuki_eda_en.ipynb`](suzuki_eda_en.ipynb) (English, main version)
 > and [`Suzuki_analysis_HU.ipynb`](Suzuki_analysis_HU.ipynb) (Hungarian
 > translation). Both contain identical analysis, code, and results.
 
