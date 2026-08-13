@@ -43,7 +43,7 @@ reflects genuine work: **9 duplicate rows**, missing values in `mileage_kmpl`
 (4.0%), `seats` (3.0%), `engine_cc` and `max_power_bhp` (2.0% each), inconsistent
 text casing, unit-embedded strings (e.g. `"21.4 kmpl"`), and **5 outlier rows**
 (e.g. `km_driven = 999999`, prices as low as 0.01 Lakh). After cleaning: **1,201
-rows** remain. Generation logic: [`src/generate_data.py`](src/generate_data.py).
+rows** remain. Generation logic: [`generate_data.py`](generate_data.py).
 The qualitative patterns below are grounded in real used-car market behavior, but
 exact figures shouldn't be treated as real market data.
 
