@@ -8,7 +8,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-3776AB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Data Analyst / Data Scientist portfolio project by **[Barna Szabó](https://github.com/barnaszabo-dev)**.
 
