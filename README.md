@@ -8,6 +8,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-3776AB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Data Analyst / Data Scientist portfolio project by **[Barna Szabó](https://github.com/barnaszabo-dev)**.
 
@@ -98,10 +99,13 @@ descriptive stats) → correlation analysis → visualization → business insig
 ```
 Suzuki_data_analysis/
 ├── README.md
+├── requirements.txt
 ├── data/raw/suzuki_cars_raw.csv
 ├── notebooks/
+│   ├── suzuki_eda_en.ipynb
 │   └── suzuki_eda_hu.ipynb
 ├── src/generate_data.py
+└── images/
 ```
 
 ## How to Run
@@ -110,7 +114,8 @@ Suzuki_data_analysis/
 git clone https://github.com/barnaszabo-dev/Suzuki_data_analysis.git
 cd Suzuki_data_analysis
 python3 -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
-jupyter notebook notebooks/suzuki_eda_hu.ipynb
+pip install -r requirements.txt
+jupyter notebook notebooks/suzuki_eda_en.ipynb
 ```
 
 The dataset is already included in `data/raw/`, so the notebook runs end-to-end
@@ -127,3 +132,6 @@ with no external downloads. To regenerate it: `python src/generate_data.py`.
 
 **Barna Szabó** · GitHub: [@barnaszabo-dev](https://github.com/barnaszabo-dev)
 
+## License
+
+MIT — see [LICENSE](LICENSE).
