@@ -92,7 +92,7 @@ descriptive stats) → correlation analysis → visualization → business insig
 
 | Price Distribution by Model | Distribution Overview |
 |---|---|
-| ![Model Price Comparison](images/model_price_comparison.png) | ![Distribution Overview](images/distribution_overview.png) |
+| ![Model Price Comparison](images/model_price_comparison.png) | ![Fuel Type Analysis](images/fuel_type.png) |
 
 ## Project Structure
 
