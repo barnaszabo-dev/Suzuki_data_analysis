@@ -28,7 +28,7 @@ valuation heuristic already performs well.
 
 > 📓 **Note:** This project includes two versions of the EDA notebook —
 > [`notebooks/suzuki_eda_en.ipynb`](notebooks/suzuki_eda_en.ipynb) (English, main version)
-> and [`notebooks/suzuki_eda_hu.ipynb`](notebooks/suzuki_eda_hu.ipynb) (Hungarian
+> and [`notebooks/Suzuki_analysis_HU.ipynb`](notebooks/Suzuki_analysis_HU.ipynb) (Hungarian
 > translation). Both contain identical analysis, code, and results.
 
 ## Dataset
