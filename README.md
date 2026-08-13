@@ -128,6 +128,3 @@ with no external downloads. To regenerate it: `python src/generate_data.py`.
 
 **Barna Szabó** · GitHub: [@barnaszabo-dev](https://github.com/barnaszabo-dev)
 
-## License
-
-MIT — see [LICENSE](LICENSE).
