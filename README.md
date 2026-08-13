@@ -90,7 +90,7 @@ descriptive stats) → correlation analysis → visualization → business insig
 |---|---|
 | ![Price vs Age](images/price_vs_age.png) | ![Correlation Heatmap](images/correlation_heatmap.png) |
 
-| Price Distribution by Model | Distribution Overview |
+| Price Distribution by Model | Fuel Type |
 |---|---|
 | ![Model Price Comparison](images/model_price_comparison.png) | ![Fuel Type Analysis](images/fuel_type.png) |
 
