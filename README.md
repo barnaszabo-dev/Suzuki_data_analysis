@@ -26,7 +26,7 @@ pricing signals versus weak/noisy ones? The analysis is built to support real
 decisions: how to price stock, which variants to prioritize, and where a simple
 valuation heuristic already performs well.
 
-> 📓 **Note:** This project includes two versions of the EDA notebook —
+> 📓 **Note:** This project includes two versions
 > [`suzuki_eda_en.ipynb`](suzuki_eda_en.ipynb) (English, main version)
 > and [`Suzuki_analysis_HU.ipynb`](Suzuki_analysis_HU.ipynb) (Hungarian
 > translation). Both contain identical analysis, code, and results.
@@ -114,7 +114,7 @@ git clone https://github.com/barnaszabo-dev/Suzuki_data_analysis.git
 cd Suzuki_data_analysis
 python3 -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-jupyter notebook notebooks/suzuki_eda_en.ipynb
+jupyter notebook suzuki_eda_en.ipynb
 ```
 
 The dataset is already included in `data/raw/`, so the notebook runs end-to-end
